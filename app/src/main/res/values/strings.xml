@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Any Manga</string>
+
+    <string name="website_kissmanga" translatable="false">http://kissmanga.com/</string>
+    <string name="website_mangapark" translatable="false">http://mangapark.me/</string>
+    <string name="website_line_webtoon" translatable="false">http://m.webtoons.com</string>
+
+</resources>
