@@ -1,9 +1,7 @@
 # Any-Manga
-A custom web browser for reading manga and manhwa
+A magic way to enter the fantasy world of manga and manhwa
 
-This is a simple web browser that allows you to read manga and manwha without having to bookmark an
-unreliable URL or sign up for an account. If you pin it to your home screen you saved yourself
-multiple clicks and you can access the content you care about faster.
+Now you,the manga/manhwa readers don't have to go through painful ordeal of loading an app, or signing up and meeting numerous conditions just to access your favourite manga from the clutches of website. all you got to do is pin it up on your home screen and you wouldnt even have to bookmark a link which may cause more trouble of finding a needle in the hay stacks.<a href=" www.dollarupload.com">dollarupload</a>
 
 ![alt text][logo]
 [logo]: https://raw.githubusercontent.com/calvinmikael/Any-Manga/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png "Logo"
