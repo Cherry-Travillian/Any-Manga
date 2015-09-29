@@ -1,7 +1,7 @@
 # Any-Manga
 A magic way to enter the fantasy world of manga and manhwa
 
-Now you,the manga/manhwa readers don't have to go through painful ordeal of loading an app, or signing up and meeting numerous conditions just to access your favourite manga from the clutches of website. all you got to do is pin it up on your home screen and you wouldnt even have to bookmark a link which may cause more trouble of finding a needle in the hay stacks.
+Now you,the manga/manhwa readers don't have to go through painful ordeal of loading an app or signing up and meeting numerous conditions just to access your favourite manga from the clutches of a website. All you got to do is pin it up on your home screen and you wouldnt even have to bookmark a link which may cause more trouble of finding a needle in a hay stack.
 To see how it works, click <a href="http://dollarupload.com/">here</a>
 
 ![alt text][logo]
